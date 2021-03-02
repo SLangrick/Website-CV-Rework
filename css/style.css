@@ -2757,7 +2757,7 @@ body {
     max-width: 1080px;
   }
 }
-@media only screen and (max-height: 500px) {
+@media only screen and (max-height: 800px) {
   .scroll-down {
     display: none;
   }
